@@ -1,0 +1,6 @@
+ID|Producto|Precio|Stock
+1|Cafe|5000|12
+2|Agua|3400|30
+3|Pastel|8400|50
+4|Moca|6000|10
+5|Jugo|5000|10
