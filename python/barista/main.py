@@ -1,6 +1,6 @@
 #! /Library/Frameworks/Python.framework/Versions/3.10/bin/python3
 
-from factory import Factory
+from config.factory import Factory
 
 # Crear una instancia de la factoría
 factory = Factory()
